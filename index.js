@@ -3,7 +3,7 @@
 var name = "Mike";
 var height = 74;
 
-console.log("Name:");
+return("Name:");
 console.log(name);
 
 console.log("Height:");
