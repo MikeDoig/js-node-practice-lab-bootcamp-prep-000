@@ -3,8 +3,8 @@
 var name = "Mike";
 var height = 74;
 
-return("Name:");
-console.log(name);
+console.log("Name:");
+return(name);
 
 console.log("Height:");
 console.log(height+1);
